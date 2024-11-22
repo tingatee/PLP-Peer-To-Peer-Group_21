@@ -2,7 +2,7 @@
 This a repo containing Group 1 Hackathon links
 
 ----
-#Paste your Name,Portfolio hosted  link,Github link here :
+## Paste your Name,Portfolio hosted  link,Github link here :
 --
 ie<br>
 Name:<br>
