@@ -4,9 +4,9 @@ This a repo containing Group 1 Hackathon links
 ----
 #Paste your Name,Portfolio hosted  link,Github link here :
 --
-ie
-Name:
-Portfolio Link:
-Github Link:
+ie<br>
+Name:<br>
+Portfolio Link:<br>
+Github Link:<br>
 
 ----
