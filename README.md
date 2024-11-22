@@ -1,6 +1,6 @@
 ## PLP-Peer-To-Peer-Group-21 :rocket: <br>
 
-![Hackathon Image](assets/screenshot.png)
+![Hackathon Image](assets/Hackathon-Poster.jpg)
 
 
 This a repo containing Group 1 Hackathon links :tada:
