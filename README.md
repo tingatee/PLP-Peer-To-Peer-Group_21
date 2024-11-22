@@ -1,4 +1,4 @@
-## PLP-Peer-To-Peer-Group-21 :rocket: <br>
+# PLP-Peer-To-Peer-Group-21 :rocket: <br>
 
 ![Hackathon Image](assets/Hackathon-Poster.jpg)
 
