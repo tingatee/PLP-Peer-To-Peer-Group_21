@@ -14,3 +14,8 @@ Portfolio Link:<br>
 Github Link:<br>
 
 ----
+
+Name: Julius Moyi Lomuket <br>
+portofolio link: https://moyijulius.github.io/myprofile/index1.html <br>
+Github Link: https://github.com/moyijulius/myprofile.git
+
