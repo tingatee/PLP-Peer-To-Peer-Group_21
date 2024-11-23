@@ -57,10 +57,10 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 **Name:** John Bradill Mukhwana  
  
- **GitHub Link:** [https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git] (https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git) 
+ **GitHub Link:** [https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git](https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git) 
 
 **Porfoio Link Netlify:** [https://john-mukhwana-portfolio.netlify.app](https://john-mukhwana-portfolio.netlify.app)
 
 ## Granton Waribe 🕵️‍♂️ 
-**Github Link** [https://github.com/Samboja651/myportfolio](https://github.com/Samboja651/myportfolio) \
+**Github Link** [https://github.com/Samboja651/myportfolio](https://github.com/Samboja651/myportfolio) 
 **Live Portfolio** [https://samboja651.github.io/myportfolio/](https://samboja651.github.io/myportfolio/)
