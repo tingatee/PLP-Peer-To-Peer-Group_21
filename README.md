@@ -16,14 +16,10 @@ This  repository containing Group 1 Hackathon links :tada:
 
 ## Group Members
 
-- [PLP-Peer-To-Peer-Group-21 :rocket: ](#plp-peer-to-peer-group-21-rocket-)
-- [📜 Table of Contents](#-table-of-contents)
-  - [Group Members](#group-members)
-  - [Paste your Name,Portfolio hosted  link,Github link here :](#paste-your-nameportfolio-hosted--linkgithub-link-here-)
-  - [Julius Moyi Lomuke  🕵️‍♂️](#julius-moyi-lomuke--️️)
-  - [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)
-  - [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)
-  - [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)
+  1. [Julius Moyi Lomuke  🕵️‍♂️](#julius-moyi-lomuke--️️)
+  2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)
+  3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)
+  4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)
 
 ----
 ## Paste your Name,Portfolio hosted  link,Github link here :
@@ -61,8 +57,10 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 **Porfoio Link Netlify:** [https://john-mukhwana-portfolio.netlify.app](https://john-mukhwana-portfolio.netlify.app)
 
-## Granton Waribe 🕵️‍♂️ 
-**Github Link** [https://github.com/Samboja651/myportfolio](https://github.com/Samboja651/myportfolio) 
+## Granton Waribe 🕵️‍♂️  
+
+**Github Link** [https://github.com/Samboja651/myportfolio](https://github.com/Samboja651/myportfolio)  
+
 **Live Portfolio** [https://samboja651.github.io/myportfolio/](https://samboja651.github.io/myportfolio/)
 
 ---
