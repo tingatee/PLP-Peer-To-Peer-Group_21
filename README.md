@@ -1,14 +1,24 @@
-# PLP-Peer-To-Peer-Group-21
+# PLP-Peer-To-Peer-Group-21 :rocket: <br>
 
 This is a repo containing Group 1 Hackathon links.
 
 
-# PLP-Peer-To-Peer-Group-21 :rocket: <br>
+
 
 ![Hackathon Image](assets/Hackathon-Poster.jpg)
 
 
-This a repo containing Group 1 Hackathon links :tada:
+This  repository containing Group 1 Hackathon links :tada:
+
+---
+
+# 📜 Table of Contents   
+
+## Group Members
+
+1. [Julius Moyi Lomuket  🕵️‍♂️](#julius-moyi-lomuke--️️)  
+2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)  
+3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)
 
 ----
 ## Paste your Name,Portfolio hosted  link,Github link here :
@@ -20,14 +30,22 @@ Github Link:<br>
 
 ----
 
+## Julius Moyi Lomuke  🕵️‍♂️    
+
 Name: Julius Moyi Lomuket <br>
 portofolio link: https://moyijulius.github.io/myprofile/index1.html <br>
 Github Link: https://github.com/moyijulius/myprofile.git
 
 ---
 
+## EMMANUEL LEAKONO  🕵️‍♂️  
+
 **Name:** EMMANUEL LEAKONO
 
 **GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website)
 
 **Portfolio:** [https://my-website-amber-pi.vercel.app/](https://my-website-amber-pi.vercel.app/)
+
+---
+
+## John Bradill Mukhwana  🕵️‍♂️  
