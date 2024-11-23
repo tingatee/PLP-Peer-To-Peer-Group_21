@@ -49,3 +49,9 @@ Github Link: https://github.com/moyijulius/myprofile.git
 ---
 
 ## John Bradill Mukhwana  🕵️‍♂️  
+
+**Name:** John Bradill Mukhwana  
+ 
+ **GitHub Link:** [https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git] (https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git) 
+
+**Porfoio Link Netlify:** [https://john-mukhwana-portfolio.netlify.app](https://john-mukhwana-portfolio.netlify.app)
