@@ -57,6 +57,8 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 **Porfoio Link Netlify:** [https://john-mukhwana-portfolio.netlify.app](https://john-mukhwana-portfolio.netlify.app)
 
+---
+
 ## Granton Waribe 🕵️‍♂️  
 
 **Github Link** [https://github.com/Samboja651/myportfolio](https://github.com/Samboja651/myportfolio)  
