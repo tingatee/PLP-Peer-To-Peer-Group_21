@@ -22,6 +22,7 @@ This  repository containing Group 1 Hackathon links :tada:
   4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)    
   5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro--)  
   6. [Dennis Mwangi 🕵️‍♂️ ](#-dennis-mwangi-)
+  7. [WAMBULWA W. KELVIN 🕵️‍♂️](#WAMBULWA-W.-KELVIN--)
   
 ----
 
@@ -75,3 +76,13 @@ Github Link: https://github.com/Edgermartial<br>
 Name: Dennis Mwangi <br>
 Portfolio Link: [https://denis7071.github.io/My-Portfolio-Web-Group-21/](https://denis7071.github.io/My-Portfolio-Web-Group-21)  
 Github Link: [https://github.com/denis7071](https://github.com/denis7071)
+
+---
+
+ ## Wambulwa W. Kelvin 🕵️‍♂️    
+
+Name: Wambulwa W. Kelvin<br>
+Portfolio Link:[https://1kelvinstine.github.io/bucky/](https://1kelvinstine.github.io/bucky/)<br>
+Github Link:[https://github.com/1kelvinstine/bucky.git](https://github.com/1kelvinstine/bucky.git)<br>
+
+---
