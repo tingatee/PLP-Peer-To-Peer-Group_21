@@ -22,6 +22,7 @@ This  repository containing Group 1 Hackathon links :tada:
   4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)    
   5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro--)  
   6. [Dennis Mwangi 🕵️‍♂️ ](#-dennis-mwangi-)
+  7. [Clifford Ojuka 🕵️‍♀️](#clifford-ojuka--)
   
 ----
 
@@ -37,7 +38,7 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 **Name:** EMMANUEL LEAKONO
 
-**GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website  
+**GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website)
 
 **Portfolio:** [https://my-website-amber-pi.vercel.app/](https://my-website-amber-pi.vercel.app/)
 
@@ -75,3 +76,11 @@ Github Link: https://github.com/Edgermartial<br>
 Name: Dennis Mwangi <br>
 Portfolio Link: [https://denis7071.github.io/My-Portfolio-Web-Group-21/](https://denis7071.github.io/My-Portfolio-Web-Group-21)  
 Github Link: [https://github.com/denis7071](https://github.com/denis7071)
+
+---
+## Clifford Ojuka 🕵️‍♀️
+Name: Clifford Ojuka<br>
+Portfolio Link: [https://clifford-portfolio.vercel.app/](https://clifford-portfolio.vercel.app/)
+GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clffordojuka/Portfolio)
+
+---
