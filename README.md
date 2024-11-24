@@ -16,19 +16,12 @@ This  repository containing Group 1 Hackathon links :tada:
 
 ## Group Members
 
-  1. [Julius Moyi Lomuke  🕵️‍♂️](#julius-moyi-lomuke--️️)
-  2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)
-  3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)
-  4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)
-
-----
-## Paste your Name,Portfolio hosted  link,Github link here :
---
-ie<br>
-Name:<br>
-Portfolio Link:<br>
-Github Link:<br>
-
+  1. [Julius Moyi Lomuke  🕵️‍♂️](#julius-moyi-lomuke--️️)  
+  2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)  
+  3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)  
+  4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)    
+  5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro--)
+  
 ----
 
 ## Julius Moyi Lomuke  🕵️‍♂️    
@@ -43,11 +36,12 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 **Name:** EMMANUEL LEAKONO
 
-**GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website)
+**GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website  
 
 **Portfolio:** [https://my-website-amber-pi.vercel.app/](https://my-website-amber-pi.vercel.app/)
 
 ---
+
 
 ## John Bradill Mukhwana  🕵️‍♂️  
 
@@ -64,5 +58,13 @@ Github Link: https://github.com/moyijulius/myprofile.git
 **Github Link** [https://github.com/Samboja651/myportfolio](https://github.com/Samboja651/myportfolio)  
 
 **Live Portfolio** [https://samboja651.github.io/myportfolio/](https://samboja651.github.io/myportfolio/)
+
+---
+
+ ## Edger Omweri Kegoro 🕵️‍♂️    
+
+Name: Edger kegoro<br>
+Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
+Github Link: https://github.com/Edgermartial<br>
 
 ---
