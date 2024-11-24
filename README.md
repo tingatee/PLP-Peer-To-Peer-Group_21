@@ -19,12 +19,10 @@ This  repository containing Group 1 Hackathon links :tada:
   1. [Julius Moyi Lomuke  🕵️‍♂️](#julius-moyi-lomuke--️️)
   2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)
   3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)
-  4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)
-  5. Edger omweri kegoro(#Edger-kegoro--)
+  4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)  
+  5. [Edger omweri kegoro 🕵️‍♂️](#edger-omweri-kegoro--)
 
 ----
-## Edger omweri kegoro
---
 ie<br>
 Name: Edger kegoro<br>
 Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
@@ -46,9 +44,8 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 **GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website)
 
-**Portfolio:** [https://my-website-amber-pi.vercel.app/](https://my-website-amber-pi.vercel.app/)
-
 ---
+
 
 ## John Bradill Mukhwana  🕵️‍♂️  
 
@@ -65,5 +62,15 @@ Github Link: https://github.com/moyijulius/myprofile.git
 **Github Link** [https://github.com/Samboja651/myportfolio](https://github.com/Samboja651/myportfolio)  
 
 **Live Portfolio** [https://samboja651.github.io/myportfolio/](https://samboja651.github.io/myportfolio/)
+
+---
+
+ ## Edger omweri kegoro 🕵️‍♂️    
+
+Name: Edger kegoro<br>
+Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
+Github Link: https://github.com/Edgermartial<br>
+
+**Portfolio:** [https://my-website-amber-pi.vercel.app/](https://my-website-amber-pi.vercel.app/)
 
 ---
