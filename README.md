@@ -5,7 +5,7 @@ This is a repo containing Group 1 Hackathon links.
 
 
 
-![Hackathon Image](assets/Hackathon-Poster.jpg)
+![Hackathon Image](./assests/Hackathon-Poster.jpg)
 
 
 This  repository containing Group 1 Hackathon links :tada:
