@@ -20,7 +20,7 @@ This  repository containing Group 1 Hackathon links :tada:
   2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)  
   3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)  
   4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)    
-  5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro)
+  5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro--)
   
 ----
 
