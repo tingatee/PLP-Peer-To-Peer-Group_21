@@ -79,8 +79,8 @@ Github Link: [https://github.com/denis7071](https://github.com/denis7071)
 
 ---
 ## Clifford Ojuka 🕵️‍♀️
-Name: Clifford Ojuka<br>
-Portfolio Link: [https://clifford-portfolio.vercel.app/](https://clifford-portfolio.vercel.app/)
-GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clffordojuka/Portfolio)
+Name: Clifford Ojuka<br>  
+Portfolio Link: [https://clifford-portfolio.vercel.app/](https://clifford-portfolio.vercel.app/)  
+GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clffordojuka/Portfolio)  
 
 ---
