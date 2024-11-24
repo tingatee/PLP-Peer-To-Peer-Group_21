@@ -20,14 +20,15 @@ This  repository containing Group 1 Hackathon links :tada:
   2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)
   3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)
   4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)
+  5. Edger omweri kegoro(#Edger-kegoro--)
 
 ----
-## Paste your Name,Portfolio hosted  link,Github link here :
+## Edger omweri kegoro
 --
 ie<br>
-Name:<br>
-Portfolio Link:<br>
-Github Link:<br>
+Name: Edger kegoro<br>
+Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
+Github Link: https://github.com/Edgermartial<br>
 
 ----
 
