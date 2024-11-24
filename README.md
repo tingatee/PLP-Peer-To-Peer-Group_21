@@ -72,5 +72,5 @@ Github Link: https://github.com/Edgermartial<br>
 ## Dennis Mwangi 🕵️‍♂️ 
 
 Name: Dennis Mwangi <br>
-Portfolio Link: [https://denis7071.github.io/My-Portfolio-Web-Group-21/](https://denis7071.github.io/My-Portfolio-Web-Group-21/)
+Portfolio Link: [https://denis7071.github.io/My-Portfolio-Web-Group-21/](https://denis7071.github.io/My-Portfolio-Web-Group-21)  
 Github Link: [https://github.com/denis7071](https://github.com/denis7071)
