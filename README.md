@@ -5,7 +5,7 @@ This is a repo containing Group 1 Hackathon links.
 
 
 
-![Hackathon Image](assets/Hackathon-Poster.jpg)
+![Hackathon Image](./assests/Hackathon-Poster.jpg)
 
 
 This  repository containing Group 1 Hackathon links :tada:
@@ -68,3 +68,9 @@ Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
 Github Link: https://github.com/Edgermartial<br>
 
 ---
+
+## Dennis Mwangi 🕵️‍♂️ 
+
+Name: Dennis Mwangi <br>
+Portfolio Link: [https://denis7071.github.io/My-Portfolio-Web-Group-21/](https://denis7071.github.io/My-Portfolio-Web-Group-21)  
+Github Link: [https://github.com/denis7071](https://github.com/denis7071)
