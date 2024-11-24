@@ -20,14 +20,8 @@ This  repository containing Group 1 Hackathon links :tada:
   2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)
   3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)
   4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)  
-  5. [Edger omweri kegoro 🕵️‍♂️](#edger-omweri-kegoro--)
-
-----
-ie<br>
-Name: Edger kegoro<br>
-Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
-Github Link: https://github.com/Edgermartial<br>
-
+  5. [Edger omweri kegoro 🕵️‍♂️](#edger-omweri-kegoro
+  
 ----
 
 ## Julius Moyi Lomuke  🕵️‍♂️    
@@ -42,7 +36,9 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 **Name:** EMMANUEL LEAKONO
 
-**GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website)
+**GitHub Link:** [https://github.com/LEAKONO/My-website](https://github.com/LEAKONO/My-website  
+
+**Portfolio:** [https://my-website-amber-pi.vercel.app/](https://my-website-amber-pi.vercel.app/)
 
 ---
 
@@ -65,12 +61,10 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
 ---
 
- ## Edger omweri kegoro 🕵️‍♂️    
+ ## Edger Omweri Kegoro 🕵️‍♂️    
 
 Name: Edger kegoro<br>
 Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
 Github Link: https://github.com/Edgermartial<br>
-
-**Portfolio:** [https://my-website-amber-pi.vercel.app/](https://my-website-amber-pi.vercel.app/)
 
 ---
