@@ -25,6 +25,7 @@
   8. [Clifford Ojuka 🕵️‍♀️](#clifford-ojuka--)
   9. [Mark John Patel 🕵️‍♀️](#mark-john-patel--)
   10. [Leo Charles 🕵️‍♂️](#leo-charles-)
+  11. [ Franklyn Muchesia 🕵️‍♂️ ](#franklyn-muchesia--) 
 
 
 ----
@@ -72,7 +73,7 @@ Name: Edger kegoro<br>
 
 Github live Link: https:https://edgermartial.github.io/plp-hackaton/<br>
 
-Github Link: https://github.com/Edgermartial/plp-hackaton.git/<br>
+Github Link: https://edgermartial.github.io/plp-hackaton/<br>
 
 ---
 
@@ -114,3 +115,11 @@ GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clff
 Name: Leo Charles
 Github Link: [https://github.com/LeoCharles09](https://github.com/LeoCharles09)  
 Portfolio Link: [https://leocharles09.github.io/LeoCharles-Group21/](https://leocharles09.github.io/LeoCharles-Group21/)
+
+## Franklyn Muchesia 🕵️‍♂️
+
+Name: Franklyn Muchesia
+Github Link:[ https://github.com/FranklynMuch](https://github.com/FranklynMuch)
+Portfolio Link :[https://code.visualstudio.com/docs/editor/settings-sync](https://github.com/FranklynMuch)
+
+---
