@@ -24,6 +24,7 @@ This  repository containing Group 1 Hackathon links :tada:
   6. [Dennis Mwangi 🕵️‍♂️ ](#-dennis-mwangi-)  
   7. [WAMBULWA W. KELVIN 🕵️‍♂️](#WAMBULWA-W.-KELVIN--)
   8. [Clifford Ojuka 🕵️‍♀️](#clifford-ojuka--)
+  9. [Mark John Patel 🕵️‍♀️](#mark-john-patel--)
 
 ----
 
@@ -96,3 +97,10 @@ GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clff
 
 
 ---
+## MARK PATEL  🕵️‍♂️  
+
+**Name:** MARK PATEL
+
+**GitHub Link:** [https://github.com/patel-mark](https://github.com/patel-mark)
+
+**Portfolio:** [https://mark-patel.netlify.app/](https://mark-patel.netlify.app/)
