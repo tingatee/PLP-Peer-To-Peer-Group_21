@@ -18,12 +18,14 @@
   1. [Julius Moyi Lomuke  🕵️‍♂️](#julius-moyi-lomuke--️️)  
   2. [EMMANUEL LEAKONO  🕵️‍♂️](#emmanuel-leakono--️️)  
   3. [John Bradill Mukhwana  🕵️‍♂️](#john-bradill-mukhwana--️️)  
-  4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️)    
+  4. [Granton Waribe 🕵️‍♂️](#granton-waribe-️️-)    
   5. [Edger Omweri Kegoro 🕵️‍♂️](#edger-omweri-kegoro--)  
-  6. [Dennis Mwangi 🕵️‍♂️ ](#-dennis-mwangi-)  
+  6. [Dennis Mwangi 🕵️‍♂️ ](#dennis-mwangi-)  
   7. [WAMBULWA W. KELVIN 🕵️‍♂️](#WAMBULWA-W.-KELVIN--)
   8. [Clifford Ojuka 🕵️‍♀️](#clifford-ojuka--)
   9. [Mark John Patel 🕵️‍♀️](#mark-john-patel--)
+  10. [Leo Charles 🕵️‍♂️](#leo-charles-)
+
 
 ----
 
@@ -103,8 +105,10 @@ GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clff
 **GitHub Link:** [https://github.com/patel-mark](https://github.com/patel-mark)
 
 **Portfolio:** [https://mark-patel.netlify.app/](https://mark-patel.netlify.app/)
+---
 
-## Leo Charles 🕵️‍♂️
+## Leo Charles 🕵️‍♂️  
+
 Name: Leo Charles
-Github Link: [https://github.com/LeoCharles09](https://github.com/LeoCharles09)
-Portfolio Link: [https://leocharles09.github.io/LeoCharles-Group21/] (https://leocharles09.github.io/LeoCharles-Group21/)
+Github Link: [https://github.com/LeoCharles09](https://github.com/LeoCharles09)  
+Portfolio Link: [https://leocharles09.github.io/LeoCharles-Group21/](https://leocharles09.github.io/LeoCharles-Group21/)
