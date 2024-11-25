@@ -1,14 +1,13 @@
 # PLP-Peer-To-Peer-Group-21 :rocket: <br>
 
-This is a repo containing Group 1 Hackathon links.
-
+This  repository containing Group 21 Hackathon links :tada:
 
 
 
 ![Hackathon Image](./assests/Hackathon-Poster.jpg)
 
 
-This  repository containing Group 1 Hackathon links :tada:
+
 
 ---
 
