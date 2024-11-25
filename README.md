@@ -25,7 +25,8 @@
   8. [Clifford Ojuka 🕵️‍♀️](#clifford-ojuka--)
   9. [Mark John Patel 🕵️‍♀️](#mark-john-patel--)
   10. [Leo Charles 🕵️‍♂️](#leo-charles-)
-  11. [ Franklyn Muchesia 🕵️‍♂️ ](#franklyn-muchesia--) 
+  11. [ Franklyn Muchesia 🕵️‍♂️ ](#franklyn-muchesia--)
+  12. [ Emilly Akhulo 🕵️‍♂️ ](#emilly-akhulo--)
 
 
 ----
@@ -123,3 +124,8 @@ Github Link:[ https://github.com/FranklynMuch](https://github.com/FranklynMuch)
 Portfolio Link :[https://code.visualstudio.com/docs/editor/settings-sync](https://github.com/FranklynMuch)
 
 ---
+## Emilly Akhulo
+
+Name: Emilly Akhulo
+Github Link:https://github.com/tingatee
+Portfolio Link: file:///C:/Users/24%20Emaua%2001/Desktop/EmillyAkhulo-Group_21/index.html#
