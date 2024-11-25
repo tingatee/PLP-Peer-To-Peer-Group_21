@@ -103,3 +103,8 @@ GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clff
 **GitHub Link:** [https://github.com/patel-mark](https://github.com/patel-mark)
 
 **Portfolio:** [https://mark-patel.netlify.app/](https://mark-patel.netlify.app/)
+
+## Leo Charles 🕵️‍♂️
+Name: Leo Charles
+Github Link: [https://github.com/LeoCharles09](https://github.com/LeoCharles09)
+Portfolio Link: [https://leocharles09.github.io/LeoCharles-Group21/] (https://leocharles09.github.io/LeoCharles-Group21/)
