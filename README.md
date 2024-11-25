@@ -66,8 +66,10 @@ Github Link: https://github.com/moyijulius/myprofile.git
 
  ## Edger Omweri Kegoro 🕵️‍♂️    
 
-Name: Edger kegoro<br>
-Portfolio Link: https://github.com/Edgermartial/plp-hackaton.git<br>
+Name: Edger kegoro<br>  
+
+Github live Link: https:https://edgermartial.github.io/plp-hackaton/<br>
+
 Github Link: https://edgermartial.github.io/plp-hackaton/<br>
 
 ---
