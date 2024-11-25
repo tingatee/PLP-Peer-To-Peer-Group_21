@@ -89,7 +89,9 @@ Github Link: [https://github.com/denis7071](https://github.com/denis7071)
 
 Name: Wambulwa W. Kelvin<br>  
 Portfolio Link:[https://1kelvinstine.github.io/bucky/](https://1kelvinstine.github.io/bucky/)<br>  
-Github Link:[https://github.com/1kelvinstine/bucky.git](https://github.com/1kelvinstine/bucky.git)<br>  
+Github Link:[https://github.com/1kelvinstine/bucky.git](https://github.com/1kelvinstine/bucky.git)<br>   
+
+---
 
 ## Clifford Ojuka 🕵️‍♀️  
 Name: Clifford Ojuka<br>  
@@ -104,9 +106,9 @@ GitHub Link: [https://github.com/Clffordojuka/Portfolio](https://github.com/Clff
 
 **GitHub Link:** [https://github.com/patel-mark](https://github.com/patel-mark)
 
-**Portfolio:** [https://mark-patel.netlify.app/](https://mark-patel.netlify.app/)
----
+**Portfolio:** [https://mark-patel.netlify.app/](https://mark-patel.netlify.app/)  
 
+---
 ## Leo Charles 🕵️‍♂️  
 
 Name: Leo Charles
